@@ -17,7 +17,7 @@ export default function Home() {
         {/* Heading */}
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 pt-[100px]">
           Intelligent Care Starts with Informed Doctors
-        </h1>
+        </h1> 
 
         {/* Logo and Title */}
         <div className="flex flex-col items-center mb-6 ">
